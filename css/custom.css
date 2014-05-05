@@ -1,12 +1,21 @@
 body {
 	background-color: #D9D9D9;
-	background-color: blue;
+
 
 	font-family: 'Open Sans', sans-serif;
 }
 h1 {
 	font-weight: 300;
+	
+
 }
+
+.logo {
+	margin-left: -20px;
+	margin-bottom: -6px;
+
+}
+
 
 p {
 	font-weight: 300;
@@ -19,8 +28,9 @@ header {
 
 h8 {
 	font-family: "Proxima Nova",Helvetica,Ariel,sans-serif	!important;
-	font-size: 16px;
-	font-weight: 200;
+	font-size: 25px;
+	font-weight: 300;
+	margin-left: 22px;
 	color: #66666;
 }
 
