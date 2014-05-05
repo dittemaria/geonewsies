@@ -11,7 +11,7 @@
 * Guiller Robles - guilleponfe@gmail.com
 * David Andersen - davidmandersen@gmail.com, @davidandersenme
 * Aurelia Moser -  auremoser@gmail.com, @auremoser
-* Ditte Maria Bergstrøm - @dittebergstrom 
+* Ditte Maria Bergstrøm - ditteberg@gmail.com @dittebergstrom 
 
 ####Demo Links
 1. [Mockups here](https://www.dropbox.com/s/91w7ahvm9rlrlvt/Geonewsi.pdf)  
